@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Haroon Abid! 
 
-<!--
-**mharoonabid/mharoonabid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+I am a **Software Engineering student** at the **National University of Science and Technology (NUST), Pakistan**. Passionate about coding, problem-solving, and continuous learning, I am currently exploring the world of **Python** and software development.  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools  
+- 💻 **Languages**: Python (learning and improving)  
+- 🛠️ **Interests**: Software Development, Automation, and Problem-Solving  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me  
+- **Email**: [dev.mharoonabid@gmail.com](mailto:dev.mharoonabid@gmail.com)  
+- **LinkedIn**: [muhammad-haroon-abid](https://www.linkedin.com/in/muhammad-haroon-abid-3698b7356/)  
+
+🌟 I'm on a journey to build, learn, and contribute. Stay tuned for future projects! 🚀  
+  
+_Thanks for visiting my GitHub profile! Feel free to connect with me and explore my projects._ 😊
